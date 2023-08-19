@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Sleepy Kernel for Redmi Note 10 Pro & Pro Max by @ itsshashanksp
+kernel.string=Sleepy Kernel for Mi 11 Lite 4G by @ itsshashanksp
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=sweet
-device.name2=sweetin
-supported.versions=11 - 13
+device.name1=courbet
+device.name2=courbetin
+supported.versions=12 - 13
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
