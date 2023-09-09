@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Sleepy Kernel for Redmi Note 10 Pro & Pro Max by @ itsshashanksp
+kernel.string=Sleepy Kernel for Redmi k30 & Poco X2 by @ itsshashanksp
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=sweet
-device.name2=sweetin
+device.name1=phoenix
+device.name2=phoenixin
 supported.versions=11 - 13
 supported.patchlevels=
 supported.vendorpatchlevels=
